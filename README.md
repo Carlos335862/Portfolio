@@ -1,0 +1,2 @@
+This is a simple and interactive personal portfolio website created using HTML, CSS, and JavaScript. It showcases my background, education, training, projects, and contact information in a clean and organized layout. The site features smooth navigation between sections using JavaScript, with interactive buttons that include hover effects and transitions for a modern user experience. A background image and a styled circular profile photo enhance the visual appeal. To view the portfolio, simply open the index.html file in any web browser.
+
